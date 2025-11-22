@@ -1,5 +1,3 @@
-## Hi there 👋
-
-Howdy! 🤠 I'm Nicole! 
+## Howdy! 🤠 I'm Nicole! 
 
 I enjoy coding 👩‍💻, reading murder mysteries 📖, and salsa dancing 💃.
